@@ -34,6 +34,4 @@ This app helps users:
 - Monitor their fitness progress  
 - Make better health decisions  
 
----
 
-## 📂 Project Structure
